@@ -2,3 +2,10 @@
 body {
   background-color: #dce2ed;
 }
+
+/*Navbar*/
+.navbar {
+  background-color: black;
+  height: 70px;
+  width: 100%;
+}
