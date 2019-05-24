@@ -22,9 +22,11 @@ body {
 
 .navbar #links {
   list-style: none;
+  padding-top: 10px;
   padding-right: 25px;
 }
 
 .navbar #links > li {
   display: inline-block;
+  padding-right: 15px;
 }
