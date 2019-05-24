@@ -17,12 +17,12 @@ body {
 }
 
 .navbar #logo {
-  
+
 }
 
 .navbar #links {
   list-style: none;
-  padding: 0;
+  
 }
 
 .navbar #links > li {
