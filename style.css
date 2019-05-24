@@ -22,7 +22,7 @@ body {
 
 .navbar #links {
   list-style: none;
-  
+  padding-right: 25px;
 }
 
 .navbar #links > li {
