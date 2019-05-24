@@ -18,16 +18,17 @@ body {
 }
 
 .navbar #logo {
-
+  padding-bottom: 20px;
 }
 
 .navbar #links {
   list-style: none;
-  padding-top: 10px;
   padding-right: 25px;
+  padding-top: 5px;
 }
 
 .navbar #links > li {
   display: inline-block;
   padding-right: 20px;
+  padding-bottom: 15px;
 }
