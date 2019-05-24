@@ -8,4 +8,20 @@ body {
   background-color: black;
   height: 70px;
   width: 100%;
+  z-index: 999999999;
+}
+
+.navbar #logo,#links {
+  display: inline-block;
+  color: white;
+}
+
+.navbar #links {
+  list-style: none;
+  padding: 0;
+
+}
+
+.navbar #links > li {
+  display: inline-block;
 }
